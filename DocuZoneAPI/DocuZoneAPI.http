@@ -1,0 +1,6 @@
+@DocuZoneAPI_HostAddress = http://localhost:5183
+
+GET {{DocuZoneAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
